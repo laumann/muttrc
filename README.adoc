@@ -1,0 +1,18 @@
+Mutt configuration
+==================
+
+This is my +mutt+ configuration. I keep it here for the purpose of backup, in case
+I ever need to setup +mutt+ again. Obviously no passwords, emails or user names
+are kept here.
+
+Setup
+-----
+
+Assuming +mutt+ is already installed, clone this repository to +~/.mutt+
+
+----
+git clone https://github.com/laumann/muttrc.git ~/.mutt
+----
+
+and replace the variables +USER+, +PASSWORD+ and +NAME+ with appropriate values.
+You should be good to go!
