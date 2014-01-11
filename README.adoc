@@ -14,5 +14,5 @@ Assuming +mutt+ is already installed, clone this repository to +~/.mutt+
 git clone https://github.com/laumann/muttrc.git ~/.mutt
 ----
 
-and replace the variables +USER+, +PASSWORD+ and +NAME+ with appropriate values.
-You should be good to go!
+and replace the variables +USER+, +PASSWORD+ and +NAME+ in +muttrc+ with
+appropriate values. You should be good to go!
